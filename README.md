@@ -1,1 +1,1 @@
-# Visualization-insights
+# Visualization Projects
